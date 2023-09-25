@@ -1,11 +1,11 @@
-##########################################################
+########################################################
 #
 # ISL Light Client deployment script
 #
 # Script repository:
 # https://github.com/albiurs/isl-light-client-deployment
 #
-##########################################################
+########################################################
 
 
 # Create target directory and download ISL client from the Digitag Website
